@@ -28,5 +28,5 @@ Developed during internship at Pragyatmika (Embedded Systems & IoT Division).
 - PWM speed control
 
 ## Author
-nithinxdx ,
+K Nithin Kumar Goud ,
 Electronics & Communication Engineering
