@@ -1,0 +1,9 @@
+Arduino IDE
+ESP32 Board Package
+Wire Library
+WiFi Library
+Ultrasonic Sensor (HC-SR04)
+L298N Motor Driver
+Optional: Adafruit IO / MQTT
+Optional: TinyGPS++
+Optional: VL53L0X
